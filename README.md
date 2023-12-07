@@ -20,7 +20,7 @@ Also, as you know, due to heavy usage, chatgpt's premium membership sales are so
 - SwiftUI
 - MVVM
 - OpenAI API
-- Alomofire
+- Alamofire
 - SwiftUI Markdown UI
 - UserDefaults
 
